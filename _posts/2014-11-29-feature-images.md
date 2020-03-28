@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Feature images
-feature-img: "assets/img/pexels/desk-messy.jpeg"
+feature-img: "assets/img/pexels/henry-co-4dBBK0r2Svc-unsplash.jpg"
 thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 image: "assets/img/thumbnails/desk-messy.jpg" #seo tag
 tags: [Test, Lorem]
 ---
 
-This is an example of a post which includes a feature image specified in the front matter of the post. 
+This is an example of a post which includes a feature image specified in the front matter of the post.
 The feature image spans the full-width of the page, and is shown with the title on permalink pages:
 
 ```yaml
@@ -22,14 +22,14 @@ It by default look into `assets/img/` so give the path from there, example:
 
 {% highlight ruby %}
 {% raw %}
-{% include aligner.html images="pexels/book-glass.jpeg,triangle.png" %}
+{% include aligner.html images="pexels/IMG_1413.JPG" %}
 {% endraw %}
 {% endhighlight %}
 
-{% include aligner.html images="pexels/book-glass.jpeg,pexels/desk-messy.jpeg" %}
+{% include aligner.html images="pexels/IMG_1260.JPG,pexels/IMG_1418.JPG" %}
 
 
-Here you have two images side by side, but you can set more and set the amount per columns 
+Here you have two images side by side, but you can set more and set the amount per columns
 (by specifying the number of columns or let it be automatic using `"auto"`):
 
 {% highlight ruby %}
