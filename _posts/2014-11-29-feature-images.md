@@ -2,8 +2,8 @@
 layout: post
 title: Feature images
 feature-img: "assets/img/pexels/henry-co-4dBBK0r2Svc-unsplash.jpg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
-image: "assets/img/thumbnails/desk-messy.jpg" #seo tag
+thumbnail: "assets/img/thumbnails/henry-co-4dBBK0r2Svc-unsplash.jpg"
+image: "assets/img/thumbnails/henry-co-4dBBK0r2Svc-unsplash.jpg" #seo tag
 tags: [Test, Lorem]
 ---
 
