@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue Pool
+title: St.Cream
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
