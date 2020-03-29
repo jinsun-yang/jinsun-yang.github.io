@@ -1,29 +1,8 @@
 ---
 layout: post
-title: Rumbly!
+title: Blue Pool
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 
-
-aaaa
-
-new newer text
-
-new text new text
-
-
-# heading 1
-
-test
-
-> disqus_shortname
-
-
-1. ordered list
-2. two
-3. three
-
-## heading 2
-
-`code`
+{% include aligner.html images="pexels/IMG_1260.JPG,pexels/IMG_1418.JPG" %}

@@ -12,4 +12,3 @@ RUN bundle install
 
 # Make it accessible from outside
 EXPOSE 4000
-
