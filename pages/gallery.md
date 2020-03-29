@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-subtitle: let's go taiwan
+subtitle: fly to Taiwan
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: St.Cream
+title: IU
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---

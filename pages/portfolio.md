@@ -1,9 +1,9 @@
---- 
+---
 layout: page
-title : Portfolio 
+title : Portfolio
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+subtitle: "Projects I am working on"
+feature-img: "assets/img/pexels/chinh-le-duc-x6rkxtDeTq4-unsplash.jpg"
 tags: [Archive]
 ---
 
